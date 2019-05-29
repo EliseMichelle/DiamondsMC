@@ -49,4 +49,13 @@ df.sort_values('price', ascending=False)
 
 
 
+#What interesting things can you conclude about the data? 
+-The larger the carat the higher the price,
+-Color D and Clarity VS2 is worth more/most desired
+-Cut doesn't really matter in comparison to price
+-The higher the carat the higher the length,width and depth
+
+What attributes are most relevant in this dataset?
+-Most revelvant is Price, Carat and Clarity
+
 
